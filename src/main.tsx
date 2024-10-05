@@ -18,7 +18,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
           imageUrl: "https://tonkeeper.com/assets/tonconnect-icon.png",
           aboutUrl: "https://tonkeeper.com",
           universalLink: "https://app.tonkeeper.com/ton-connect",
-          bridgeUrl: "http://localhost:80/bridge/tonkeeper",
+          bridgeUrl: "https://dc5c-45-126-3-252.ngrok-free.app/bridge/tonkeeper",
           platforms: ["ios", "android", "macos", "windows", "linux"]
         },
         {
@@ -27,7 +27,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
           imageUrl: "https://static.mytonwallet.io/icon-256.png",
           aboutUrl: "https://mytonwallet.io",
           universalLink: "https://connect.mytonwallet.org",
-          bridgeUrl: "http://localhost:80/bridge/mytonwallet",
+          bridgeUrl: "https://dc5c-45-126-3-252.ngrok-free.app/bridge/mytonwallet",
           platforms: ["ios", "android", "macos", "windows", "linux"]
         },
       ]
